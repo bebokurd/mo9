@@ -8,7 +8,7 @@ function loophalaman(a) {
         maksimal - 1 == a / postperpage && (maksimal -= 1),
         (akhir = mulai + numshowpage - 1),
         akhir > maksimal && (akhir = maksimal),
-        (e += "<span class='showpageOf'>صفحة  " + nomerhal + " من " + maksimal + "</span>");
+        (e += "<span class='showpageOf'>لاپەڕە   " + nomerhal + " لە " + maksimal + "</span>");
     var s = parseInt(nomerhal) - 1;
     nomerhal > 1 &&
         (e +=

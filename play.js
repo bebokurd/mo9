@@ -1,3 +1,7 @@
+const controls =
+[
+    'play-large',
+    'restart',
     'rewind',
     'play', 
     'fast-forward', 
